@@ -1,0 +1,37 @@
+html{
+    --black: black;
+    --blue: blue;
+    --darkblue: darkblue;
+    --darkgray: darkgray;
+    --gray: gray;
+    --light-gray: lightgray;
+    --red: red;
+    --white: white;
+}
+
+.black{color: var(--black)}
+.blue{color: var(--blue)}
+.dark-blue{color: var(--dark-blue)}
+.dark-gray{color: var(--dark-gray)}
+.gray{color: var(--gray)}
+.lightgray{color: var(--light-gray)}
+.red{color: var(--red)}
+.white{color: var(--white)}
+
+.bg-black{background-color: var(--black)}
+.bg-blue{background-color: var(--blue)}
+.bg-darkblue{background-color: var(--dark-blue)}
+.bg-darkgray{background-color: var(--dark-gray)}
+.bg-gray{background-color: var(--gray)}
+.bg-lightgray{background-color: var(--light-gray)}
+.bg-red{background-color: var(--red)}
+.bg-white{background-color: var(--white)}
+
+.hover-bg-black{background-color: var(--black)}
+.hover-bg-blue{background-color: var(--blue)}
+.hover-bg-darkblue{background-color: var(--dark-blue)}
+.hover-bg-darkgray{background-color: var(--dark-gray)}
+.hover-bg-gray{background-color: var(--gray)}
+.hover-bg-lightgray{background-color: var(--light-gray)}
+.hover-bg-red{background-color: var(--red)}
+.hover-bg-white{background-color: var(--white)}

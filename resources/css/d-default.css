@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    --space: 200px; /* Var used to define content margin in the screen */
+    font-size: 16.00px;
+    overflow-x: hidden;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+b{
+    font-weight: bold;
+}
+
+.caps{
+    letter-spacing: .5px; /*Put this classe in CAPS LOCK texts, so it will get a more space between the letters.*/
+}
