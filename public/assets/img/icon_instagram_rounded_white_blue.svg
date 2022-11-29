@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg70294"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="icon_instagram_rounded_white_blue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70296"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.3209814"
+     inkscape:cx="39.145056"
+     inkscape:cy="67.449942"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs70291" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.959683;stroke-dasharray:none;stroke-opacity:1"
+       id="circle79993"
+       cx="13.229166"
+       cy="13.229166"
+       r="13.229166" />
+    <g
+       id="g79999"
+       transform="matrix(0.0356576,0,0,0.0356576,4.1008489,4.1008961)"
+       style="fill:#001647;fill-opacity:1">
+      <path
+         d="m 349.33,69.33 a 93.62,93.62 0 0 1 93.34,93.34 v 186.66 a 93.62,93.62 0 0 1 -93.34,93.34 H 162.67 A 93.62,93.62 0 0 1 69.33,349.33 V 162.67 a 93.62,93.62 0 0 1 93.34,-93.34 h 186.66 m 0,-37.33 H 162.67 C 90.8,32 32,90.8 32,162.67 V 349.33 C 32,421.2 90.8,480 162.67,480 H 349.33 C 421.2,480 480,421.2 480,349.33 V 162.67 C 480,90.8 421.2,32 349.33,32 Z"
+         id="path79995"
+         style="fill:#002c8f;fill-opacity:1" />
+      <path
+         d="m 377.33,162.67 a 28,28 0 1 1 28,-28 27.94,27.94 0 0 1 -28,28 z M 256,181.33 A 74.67,74.67 0 1 1 181.33,256 74.75,74.75 0 0 1 256,181.33 M 256,144 A 112,112 0 1 0 368,256 112,112 0 0 0 256,144 Z"
+         id="path79997"
+         style="fill:#002c8f;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

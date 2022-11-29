@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg70294"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="icon_phone_rounded_white_blue.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview70296"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.3209814"
+     inkscape:cx="39.145056"
+     inkscape:cy="67.449942"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs70291" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.959683;stroke-dasharray:none;stroke-opacity:1"
+       id="circle79977"
+       cx="13.229166"
+       cy="13.229166"
+       r="13.229166" />
+    <path
+       d="m 20.257554,17.481155 c -0.572342,-0.576652 -1.95849,-1.418226 -2.631014,-1.757349 -0.875803,-0.441154 -0.9479,-0.4772 -1.636243,0.03433 -0.459172,0.341321 -0.764436,0.646213 -1.301784,0.531631 -0.537348,-0.114668 -1.705121,-0.760834 -2.727644,-1.780077 -1.02244,-1.019243 -1.706092,-2.220848 -1.821121,-2.756411 -0.115168,-0.535561 0.195091,-0.837231 0.533074,-1.297477 0.476406,-0.6487111 0.44044,-0.7568439 0.0333,-1.6326461 C 10.388566,8.1419768 9.5225596,6.7688026 8.9436959,6.1993661 8.3244819,5.5877531 8.3244819,5.6958859 7.925502,5.8616526 A 5.7719533,5.7719533 0 0 0 6.9946135,6.3579756 C 6.4179422,6.7410597 6.0978869,7.059325 5.8741007,7.537582 5.6504255,8.015839 5.5497161,9.1370845 6.7055841,11.236806 c 1.1557847,2.099755 1.9667322,3.173402 3.6451569,4.847161 1.678396,1.673732 2.969024,2.573672 4.855833,3.631831 2.333964,1.307215 3.22922,1.052383 3.708901,0.828933 0.479736,-0.223481 0.799403,-0.540609 1.183231,-1.117258 a 5.7337498,5.7337498 0 0 0 0.497386,-0.929884 c 0.166507,-0.397512 0.274182,-0.397512 -0.338455,-1.016337 z"
+       fill="none"
+       stroke="currentColor"
+       stroke-miterlimit="10"
+       stroke-width="0.469075"
+       id="path79979"
+       style="fill:#002c8f;fill-opacity:1;stroke:none;stroke-width:1.15312;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>
