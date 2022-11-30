@@ -16,7 +16,7 @@ use Inertia\Inertia;
 |
 */
 
-Route::get('/', function() {return Inertia::render('Inicio');});
+Route::get('/', function () {return view('inicio');});
 
 /*Route::get('/', function () {
     return Inertia::render('Welcome', [
@@ -37,4 +37,5 @@ Route::middleware('auth')->group(function () {
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
 });
 
-require __DIR__.'/auth.php';*/
+require __DIR__.'/auth.php';
+*/
