@@ -16,7 +16,9 @@ use Inertia\Inertia;
 |
 */
 
-Route::get('/', function () {return view('inicio');});
+Route::get('/', function () {
+    return view('inicio');
+});
 
 /*Route::get('/', function () {
     return Inertia::render('Welcome', [

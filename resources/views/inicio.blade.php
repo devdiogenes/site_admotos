@@ -1,8 +1,5 @@
 <x-guest-layout title="AD Motos - Peças e Acessórios">
-    <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Dashboard') }}
-        </h2>
-    </x-slot>
     <x-header />
+    <x-admotos />
+    <x-footer />
 </x-guest-layout>

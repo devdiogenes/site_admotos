@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg1808"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="pilar_logististica.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1810"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="3.3209814"
+     inkscape:cx="49.684109"
+     inkscape:cy="26.197076"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1805">
+    <rect
+       x="2940.5879"
+       y="756.28925"
+       width="295.54523"
+       height="191.38809"
+       id="rect55286" />
+    <rect
+       x="2940.5879"
+       y="756.28925"
+       width="295.54523"
+       height="191.38809"
+       id="rect55288" />
+    <rect
+       x="2940.5879"
+       y="756.28925"
+       width="301.54486"
+       height="201.38745"
+       id="rect55290" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 5.5322045,22.83533 q -1.473241,0 -2.510539,-1.037266 -1.037281,-1.037282 -1.037281,-2.510539 H -5e-7 V 5.426967 q 0,-0.721586 0.541197,-1.262783 0.541182,-0.541181 1.262768,-0.541181 H 19.212373 v 5.021061 h 3.156942 l 4.089018,5.44201 v 5.201451 H 24.32363 q 0,1.473257 -1.037313,2.510539 -1.03725,1.037266 -2.510508,1.037266 -1.473241,0 -2.510538,-1.037266 -1.037297,-1.037282 -1.037297,-2.510539 H 9.0800245 q 0,1.473257 -1.037297,2.510539 -1.037266,1.037266 -2.510523,1.037266 z m 0,-1.803949 q 0.721586,0 1.232714,-0.511143 0.511126,-0.511127 0.511126,-1.232713 0,-0.721601 -0.511126,-1.232713 -0.511127,-0.511127 -1.232714,-0.511127 -0.721585,0 -1.232728,0.511127 -0.511096,0.511112 -0.511096,1.232713 0,0.721586 0.511096,1.232713 0.511143,0.511143 1.232728,0.511143 z m -3.728239,-3.547836 h 0.661476 q 0.511111,-0.811765 1.292853,-1.292838 0.781726,-0.481088 1.74384,-0.481088 0.962114,0 1.758899,0.4961 0.796753,0.4961 1.307849,1.277826 H 17.408379 V 5.426967 H 1.8039645 q 0,0 0,0 0,0 0,0 z m 18.9718435,3.547836 q 0.721602,0 1.232698,-0.511143 0.511143,-0.511127 0.511143,-1.232713 0,-0.721601 -0.511143,-1.232713 -0.511096,-0.511127 -1.232698,-0.511127 -0.721585,0 -1.232713,0.511127 -0.511142,0.511112 -0.511142,1.232713 0,0.721586 0.511142,1.232713 0.511128,0.511143 1.232713,0.511143 z m -1.563434,-6.133526 h 5.592297 L 21.467341,10.448044 H 19.212376 Z M 9.6212225,11.770951 q 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 0,0 z"
+       id="path55230"
+       style="fill:#002c8f;fill-opacity:1;stroke-width:0.601325" />
+  </g>
+</svg>
