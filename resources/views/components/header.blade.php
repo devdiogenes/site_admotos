@@ -20,36 +20,3 @@
         </nav>
     <div>
 </header>
-<script>
-    class HeaderScripts{
-        constructor(){
-            this.menu_atual = "inicio"
-            this.horario = document.getElementById("horario_1")
-            this.header = document.querySelector("header")
-            this.nav = document.querySelector("nav")
-            this.fixa_ao_rolar()
-        }
-        exibe_oculta_horario(){
-            this.horario.classList.toggle("flex")
-            this.horario.classList.toggle("hidden")
-        }
-        destaca_menu(menu){
-            document.getElementById(this.menu_atual).classList.remove("bg-matte-blue")
-            document.getElementById(menu).classList.add("bg-matte-blue")
-            this.menu_atual = menu
-
-        }
-        fixa_ao_rolar(){
-            window.onscroll = () => {
-                if(window.pageYOffset > 100){
-                    this.nav.classList.add("fixed", "h-14")
-                    this.nav.classList.remove("h-10")
-                } else {
-                    this.nav.classList.remove("fixed", "h-14")
-                    this.nav.classList.add("h-10")
-                }
-            }
-        }
-    }
-    const header = new HeaderScripts()
-</script>

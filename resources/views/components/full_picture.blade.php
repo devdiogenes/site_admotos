@@ -5,22 +5,3 @@
         </div>
     </div>
 </div>
-<script>
-    class ScriptsFullPicture{
-        constructor(){
-            this.div = document.getElementById("full_picture_div")
-            this.img = document.getElementById("full_picture_img")
-        }
-        esconder(){
-            this.div.classList.remove("fixed")
-            this.div.classList.add("hidden")
-        }
-        mostrar(imagem){
-            console.log(this.image)
-            this.img.src = "assets/img/" + imagem + ".jpg"
-            this.div.classList.add("fixed")
-            this.div.classList.remove("hidden")
-        }
-    }
-    const full_picture = new ScriptsFullPicture()
-</script>

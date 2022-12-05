@@ -1,4 +1,4 @@
-<x-main>
+<x-main id="main_alseh">
     <x-slot name="titulo_cima">
         Deseja qualidade?
     </x-slot>
@@ -20,7 +20,7 @@
             Qualidade
         </x-slot>
         <x-slot name="descricao">
-            Esse é o foco da Alseh, pois o cliente merece sempre o melhor!
+            A sua segurança é inegociável, portanto, nosso foco está em peças de altíssima qualidade
         </x-slot>
     </x-pilar>
     <x-pilar icon="durabilidade">

@@ -1,4 +1,4 @@
-<x-main>
+<x-main id="main_admotos">
     <x-slot name="titulo_cima">
         Empresa referência
     </x-slot>
@@ -6,7 +6,7 @@
         Em <strong class="font-medium text-red">toda</strong> a Bahia
     </x-slot>
     <x-slot name="descricao">
-        Somos uma importadora de peças de motos referência em qualidade e eficiência. Através dos nossos produtos, nossos clientes podem adquirir peças de altíssima qualidade, por um preço acessível.
+        Somos uma importadora de peças para motocicletas referência no mercado. Através da nossa empresa, você pode adquirir produtos de altíssima qualidade por um preço acessível.
     </x-slot>
 </x-main>
 <x-about>
