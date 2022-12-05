@@ -1,4 +1,5 @@
 <x-guest-layout title="AD Motos - Peças e Acessórios">
+    <x-full_picture/>
     <x-header />
     <div class="w-full overflow-hidden">
         <div id="conteudos" class="transition-all duration-500 w-[200vw] flex overflow-hidden flex-nowrap">
