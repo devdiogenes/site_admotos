@@ -1,1 +1,3 @@
-<div class="h-[1px] w-16 bg-gray my-5"></div>
+@props(["color" => "gray"])
+
+<div class="h-[1px] w-16 bg-{{$color}} my-5"></div>

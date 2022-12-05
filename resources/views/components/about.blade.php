@@ -1,9 +1,11 @@
+@props(["titulo" => "", "descricao" => ""])
+
 <x-section class="text-center ">
     <div class="flex flex-col items-center m-10">
-        <x-h1>O QUE FAZEMOS</x-h1>
+        {{$titulo}}
         <x-bar />
         <x-description>
-            {{$slot}}
+            {{$descricao}}
             
         </x-description>
     </div>

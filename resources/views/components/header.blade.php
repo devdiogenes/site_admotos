@@ -8,12 +8,12 @@
             </div>
         </div>
         <x-horario id="1" class="hidden sm:hidden mb-5"/>
-        <nav class="bg-blue w-full h-10 flex justify-center items-center text-white text-sm font-medium">
+        <nav class="transition-all duration-300 bg-blue w-full h-10 flex justify-center items-center text-white text-sm font-medium">
             <ul class="w-full md:w-[calc(100%-200px)] h-full max-w-screen-xl flex justify-center md:justify-start">
-                <li id="inicio" onclick="header.destaca_menu('inicio')" class="cursor-pointer bg-matte-blue px-5 h-full flex items-center">
+                <li id="inicio" onclick="header.destaca_menu('inicio')" class="transition-all duration-500 cursor-pointer bg-matte-blue px-5 h-full flex items-center">
                     INÍCIO
                 </li>
-                <li id="alseh" onclick="header.destaca_menu('alseh')" class="cursor-pointer px-5 h-full flex items-center">
+                <li id="alseh" onclick="header.destaca_menu('alseh')" class="transition-all duration-500 cursor-pointer px-5 h-full flex items-center">
                     CONHEÇA A ALSEH
                 </li>
             </ul>
@@ -40,14 +40,15 @@
 
         }
         fixa_ao_rolar(){
-            function fixar(){
+            window.onscroll = () => {
                 if(window.pageYOffset > 100){
-                    this.nav.classList.add("fixed")
+                    this.nav.classList.add("fixed", "h-14")
+                    this.nav.classList.remove("h-10")
                 } else {
-                    this.nav.classList.remove("fixed")
+                    this.nav.classList.remove("fixed", "h-14")
+                    this.nav.classList.add("h-10")
                 }
             }
-            window.onscroll = fixar.bind(this)
         }
     }
     const header = new HeaderScripts()

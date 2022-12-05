@@ -1,9 +1,11 @@
+@props(["titulo_cima" => "", "titulo_principal" => "", "descricao" => ""])
+
 <main class="bg-silver w-full flex justify-center">
     <div class="w-full md:w-[calc(100%-200px)] max-w-screen-xl flex flex-col lg:flex-row justify-between">
         <div class="min-h-[450px] flex flex-col justify-center m-4">
-            <h2 class="text-2xl font-normal">Empresa referência</h2>
-            <h1 class="text-blue text-5xl font-medium leading-snug mb-5">Em <strong class="font-medium text-red">toda</strong> a Bahia</h1>
-            <p class="max-w-sm text-sm font-light">Somos uma importadora de peças de motos referência em qualidade e eficiência. Através dos nossos produtos, nossos clientes podem adquirir peças de altíssima qualidade, por um preço acessível.</p>
+            <h2 class="text-2xl font-normal">{{$titulo_cima}}</h2>
+            <h1 class="text-blue text-5xl font-medium leading-snug mb-5">{{$titulo_principal}}</h1>
+            <p class="max-w-sm text-sm font-light">{{$descricao}}</p>
             <x-contact_icons />
         </div>
         <form class="bg-white my-10 mx-4 flex flex-col items-center justify-center text-sm font-medium">
