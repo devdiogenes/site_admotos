@@ -10,8 +10,18 @@
         <meta name="keywords" content="moto, motos, atacado, peças, ad, admotos, hesla, alseh, bahia, motopeças, motoparts"/>
         <meta name="description" content="Somos uma importadora de peças para motocicletas referência no mercado. Através da nossa empresa, você pode adquirir produtos de altíssima qualidade por um preço acessível."/>
         <link rel="canonical" href="http://admotos.com.br"/>
-        
         <title>{{$title}}</title>
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170739082-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-170739082-2');
+            gtag('config', 'UA-170739082-3'); 
+        </script>
 
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap">
