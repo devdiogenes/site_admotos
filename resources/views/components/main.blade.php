@@ -8,16 +8,15 @@
             <p class="max-w-sm text-sm font-light">{{$descricao}}</p>
             <x-contact id="contact_{{$id}}" />
         </div>
-        <form class="bg-white my-10 mx-4 flex flex-col items-center justify-center text-sm font-medium">
+        <form method="post" action="enviar" class="bg-white my-10 mx-4 flex flex-col items-center justify-center text-sm font-medium">
+            @csrf 
             <h2 class="text-blue text-2xl font-bold mt-10">Contato</h2>
             <div class="sm:m-4">
                 <x-input nome="Nome" name="nome"/>
                 <x-input nome="Telefone" name="telefone" />
                 <x-input nome="Mensagem" name="mensagem" tipo="textarea" />
             </div>
-            <div class="bg-blue text-white h-9 flex items-center justify-center px-10 rounded-3xl mb-10 cursor-pointer">
-                Enviar
-            </div>
+            <input type="submit" class="bg-blue text-white h-9 flex items-center justify-center px-10 rounded-3xl mb-10 cursor-pointer" value="Enviar"></input>
         </form>
     </div>
 </main>

@@ -1,4 +1,9 @@
 <x-guest-layout title="AD Motos - Peças e Acessórios">
+    @if(session('form_status'))
+        <script>
+            alert("{{session('form_status')}}")
+        </script>
+    @endif
     <x-whatsapp_icon />
     <x-full_picture />
     <x-header />
