@@ -47,7 +47,7 @@
         </x-slot>
     </x-pilar>
 </x-pilares>
-<x-about_with_image titulo="NOSSA HISTÓRIA" imagem="estoque">
+<x-about_with_image titulo="NOSSA HISTÓRIA" imagem="estoque" img_alt="Estoque da AD Motos">
     <p>A AD Motos foi fundada em 1993, como uma pequena oficina para motos, se tornando uma distribuidora de peças após algum tempo. Em 2009, foi inaugurada uma nova estrutura física de 1180m², contando com mais de 20 colaboradores diretos. </p>
     <br/>
     <p>Hoje em dia, a AD Motos é uma importadora referência dentro e fora do estado da Bahia, juntamente com sua marca, a Alseh. </p>

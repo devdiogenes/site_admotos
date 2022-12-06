@@ -9,7 +9,7 @@
         As melhores peças, com os melhores preços!
     </x-slot>
 </x-main>
-<x-about_with_image titulo="POR QUE A ALSEH?" imagem="itens_alseh">
+<x-about_with_image titulo="POR QUE A ALSEH?" imagem="itens_alseh" img_alt="Conjunto de peças de motos, da marca Alseh">
     <p>
         As peças da Alseh são fabricadas com foco principal em qualidade. Ao colocar uma peça Alseh na sua moto, você se assegura de que lá estará uma peça com grande durabilidade, por um preço que cabe no seu bolso.   
     </p>
