@@ -6,10 +6,13 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="csrf-token" content="{{ csrf_token() }}">
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml">
         <meta name="keywords" content="moto, motos, atacado, peças, ad, admotos, hesla, alseh, bahia, motopeças, motoparts"/>
         <meta name="description" content="Somos uma importadora de peças para motocicletas referência no mercado. Através da nossa empresa, você pode adquirir produtos de altíssima qualidade por um preço acessível."/>
-        <link rel="canonical" href="http://admotos.com.br"/>
+        <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+        
+        <link rel="canonical" href="https://admotos.com.br"/>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+
         <title>{{$title}}</title>
 
         <!-- Global site tag (gtag.js) - Google Analytics -->
